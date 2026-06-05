@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="512" height="512" viewBox="0 0 512 512">
+  <rect width="512" height="512" rx="80" fill="#0F1923"/>
+  <rect x="40" y="40" width="432" height="432" rx="60" fill="#121E2B"/>
+  <!-- Stethoscope simplified icon -->
+  <text x="256" y="320" font-size="240" text-anchor="middle" font-family="serif">🩺</text>
+  <!-- Bottom label -->
+  <rect x="60" y="400" width="392" height="60" rx="10" fill="#2D6A4F" opacity="0.8"/>
+  <text x="256" y="443" font-size="36" text-anchor="middle" fill="#7EC8A4" font-family="Georgia,serif" font-weight="bold">CHARGES</text>
+</svg>
